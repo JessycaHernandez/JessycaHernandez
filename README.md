@@ -1,4 +1,4 @@
-#A little about me
+# A little about me
 
 ### Olá, meu nome é Jéssyca Hernandez, e tenho estudado HTML, CSS e Java Script. Pretendo começar em breve meus estudos sobre react, com o ojetivo de ingressar no mercado de trabalho. Tenho 24 anos, gosto muito de novos desafios, e tenho certeza de que a jornada que me espera será surpreendente e cheia de conquistas.
 <!--
